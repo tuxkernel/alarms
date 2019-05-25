@@ -59,11 +59,19 @@ If you are using MATE Desktop like me, you can add shortcuts in task bar. Right 
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/01.png)
 
-Select "Cajón" and add.
+Select "Cajón". Add.
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/02.png)
 
-Now right click over "Cajón" and select "add to Cajón". In the box, select "Custom Launcher" and fill with the following:
+Now right click over "Cajón" and select "add to Cajón".
+
+![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/03.png)
+
+In the box, select "Custom Launcher"
+
+![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/04.png)
+
+and fill with the following:
 
 - Type: Application
 - Name: Coffee
