@@ -37,7 +37,7 @@ Now move the scripts to /usr/bin/:
 
 Navigate to /usr/bin:
 
-**$ cd /usr/bin
+**$ cd /usr/bin**
 
 and make executable:
 
