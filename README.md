@@ -29,29 +29,33 @@ and unzip it:
 
 Navigate to directory:
 
-**$ cd hacker-manifesto-bash-script-master/**
+**$ cd alarms-master/**
 
-Now move the script to /usr/bin/:
+Now move the scripts to /usr/bin/:
 
-**$ sudo cp hacker-manifesto /usr/bin**
+**$ sudo mv coffee popcorn ramen snooze wakeup water-heater water-pump /usr/bin**
+
+Navigate to /usr/bin:
+
+**$ cd /usr/bin
 
 and make executable:
 
-**$ sudo chmod +x /usr/bin/hacker-manifesto**
+**$ sudo chmod +x coffee popcorn ramen snooze wakeup water-heater water-pump**
 
 and change the owner. For example:
 
-**$ sudo chown blackout:blackout /usr/bin/hacker-manifesto**
+**$ sudo chown blackout:blackout coffee popcorn ramen snooze wakeup water-heater water-pump**
 
 **NOTE:** Change **blackout:blackout** for your user name.
 
 Finally, just run as:
 
-**$ hacker-manifesto**
+**$ coffee**
 
-You can stop it with:
+**Tips!:**
 
-**CTRL + Z**
+
 
 That's all. Enjoy it!
 
