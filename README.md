@@ -21,7 +21,7 @@ Scripts requires bash, mplayer and zenity installed before. Open a terminal and 
 
 Then download it:
 
-**$ wget https://github.com/tuxkernel/hacker-manifesto-bash-script/archive/master.zip**
+**$ wget https://github.com/tuxkernel/alarms/archive/master.zip
 
 and unzip it:
 
