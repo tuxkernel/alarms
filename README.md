@@ -59,7 +59,7 @@ By default, the directory of beep alarm scripts is /home/blackout/.sounds/alarm.
 
 Then open a terminal and type:
 
-**$ mkdir .sounds
+**$ mkdir .sounds**
 
 Just copy **alarm.mp3"** to **/home/YOURUSERNAME/.sounds**
 
