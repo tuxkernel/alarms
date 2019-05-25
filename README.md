@@ -1,4 +1,4 @@
-# alarms
+# Simple bash scripts alarms
 Bash scripts alarms for daily use.
 
 **Description:**
