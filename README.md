@@ -114,7 +114,11 @@ Three minutes later, you'll get a beep and message on the desk
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/07.png)
 
+Then down to the kitchen and pour your cup of coffee. 
+
 That's all. Enjoy it!
 
 **Tuxkernel...**
+
+Bash scripts alarms were inspired by (https://github.com/NARKOZ/hacker-scripts)
 
