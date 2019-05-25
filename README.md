@@ -15,7 +15,7 @@ Includes alarms for coffee, popcorn and ramen (microwave); snooze, wake up, wate
 
 **Installation:**
 
-Scripts requires bash, mplayer and zenity installed before. Open a terminal and type:
+The scripts requires bash, mplayer and zenity programs installed before. Open a terminal and type:
 
 **$ sudo apt-get install bash mplayer zenity**
 
@@ -35,7 +35,7 @@ Now move the scripts to /usr/bin/:
 
 **$ sudo mv coffee popcorn ramen snooze wakeup water-heater water-pump /usr/bin**
 
-Navigate to /usr/bin:
+Navigate to /usr/bin/:
 
 **$ cd /usr/bin**
 
