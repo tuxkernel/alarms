@@ -80,6 +80,12 @@ and fill with the following:
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/05.png)
 
+Do the same with the others scripts.
+
+Finally, left click over "Cajón" and select your task. For example, Popcorn:
+
+![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/06.png)
+
 That's all. Enjoy it!
 
 **Tuxkernel...**
