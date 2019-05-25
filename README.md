@@ -120,5 +120,4 @@ That's all. Enjoy it!
 
 **Tuxkernel...**
 
-Bash scripts alarms were inspired by (https://github.com/NARKOZ/hacker-scripts)
-
+**NOTE:** These bash scripts alarms were inspired by (https://github.com/NARKOZ/hacker-scripts)
