@@ -53,6 +53,25 @@ Finally, just run as:
 
 **$ coffee**
 
+# Add sound
+
+By default, the directory of beep alarm scripts is /home/blackout/.sounds/alarm.mp3
+
+If your **YOURUSERNAME** is other, you must edit (with your favorite text editor) each script manually and change the path to "alarm.mp3". For example:
+
+#!/bin/bash
+
+sleep 8m
+**mplayer /home/blackout/.sounds/alarm.mp3 <-- Change /path/to/mp3/alarm**
+sleep 1s
+echo " "
+echo " Coffee is ready!"
+echo " "
+zenity --warning --text "Coffee is ready!"
+exit 0
+
+That's all.
+
 # Add Shortcuts
 
 If you are using MATE Desktop like me, you can add shortcuts in task bar. Right click on task bar and select "Add to panel".
