@@ -59,16 +59,7 @@ By default, the directory of beep alarm scripts is /home/blackout/.sounds/alarm.
 
 If your **YOURUSERNAME** is other, you must edit (with your favorite text editor) each script manually and change the path to "alarm.mp3". For example:
 
-- #!/bin/bash
-
-- sleep 8m
-- **mplayer /home/blackout/.sounds/alarm.mp3 <-- Change /path/to/mp3/alarm**
-- sleep 1s
-- echo " "
-- echo " Coffee is ready!"
-- echo " "
-- zenity --warning --text "Coffee is ready!"
-- exit 0
+![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/08.png)
 
 That's all.
 
