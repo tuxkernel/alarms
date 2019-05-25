@@ -78,9 +78,7 @@ and fill with the following:
 - Command: /usr/bin/coffee
 - Comment: Prepare coffee
 
-Example:
-
-
+![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/05.png)
 
 That's all. Enjoy it!
 
