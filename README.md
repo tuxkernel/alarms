@@ -57,6 +57,12 @@ Finally, just run as:
 
 By default, the directory of beep alarm scripts is /home/blackout/.sounds/alarm.mp3
 
+Then open a terminal and type:
+
+**$ mkdir .sounds
+
+Just copy **alarm.mp3"** to **/home/YOURUSERNAME/.sounds**
+
 If your **YOURUSERNAME** is other, you must edit (with your favorite text editor) each script manually and change the path to "alarm.mp3". For example:
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/08.png)
