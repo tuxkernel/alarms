@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sleep 5m
+mplayer /home/blackout/.sounds/alarm.mp3
+sleep 1s
+echo " "
+echo " Ramen is ready!"
+echo " "
+zenity --warning --text "Ramen is ready!"
+exit 0

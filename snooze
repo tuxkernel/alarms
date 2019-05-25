@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sleep 20m
+mplayer /home/blackout/.sounds/alarm.mp3
+sleep 1s
+echo " "
+echo " Wake up, Neo... The Matrix has you... Follow the white rabbit. Knock, knock, Neo."
+echo " "
+zenity --warning --text "Wake up!"
+exit 0

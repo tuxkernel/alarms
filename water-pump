@@ -1,0 +1,10 @@
+#!/bin/bash
+
+sleep 40m
+mplayer /home/blackout/.sounds/alarm.mp3
+sleep 1s
+echo " "
+echo " Turn off the water pump!"
+echo " "
+zenity --warning --text "Turn off the water pump!"
+exit 0
