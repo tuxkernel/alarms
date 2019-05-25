@@ -53,7 +53,16 @@ Finally, just run as:
 
 **$ coffee**
 
-# Tips!
+# Add Shortcuts
+
+If you are using MATE Desktop like me, you can add shortcuts in task bar. Right click on task bar and select "Add to panel". Then select "Cajón". Now right click over "Cajón" and select "add to Cajón". In the box, select "Custom Launcher" and fill with the following:
+
+Type: Application
+Name: Coffee
+Command: /usr/bin/coffee
+Comment: Prepare coffee
+
+Example:
 
 
 
