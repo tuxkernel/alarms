@@ -1,8 +1,9 @@
 # Simple bash scripts alarms
-Bash scripts alarms for daily use.
-
 **Description:**
-A set of bash scripts alarms for daily use. Includes alarms for coffee, popcorn and ramen (microwave); snooze, wake up, water heater and water pump.
+Simple bash scripts alarms for daily use.
+
+**Tasks:**
+Includes alarms for coffee, popcorn and ramen (microwave); snooze, wake up, water heater and water pump.
 
 **Requirements:**
 
