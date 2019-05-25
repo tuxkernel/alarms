@@ -53,7 +53,7 @@ Finally, just run as:
 
 **$ coffee**
 
-**Tips!:**
+# Tips!
 
 
 
