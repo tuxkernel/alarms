@@ -110,11 +110,11 @@ Finally, left click over "Cajón" and select your task. For example, Popcorn:
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/06.png)
 
-Three minutes later, you'll get a beep and message on the desk
+Three minutes later, you'll get a beep sound and message on the desk.
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/07.png)
 
-Then down to the kitchen and pour your cup of coffee. 
+Then down to the kitchen and take your bag of popcorn.
 
 That's all. Enjoy it!
 
