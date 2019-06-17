@@ -1,8 +1,11 @@
 #!/bin/bash
 
 sleep 20m
+amixer set Master 100%
+sleep 1s
 mplayer /home/blackout/.sounds/alarm.mp3
 sleep 1s
+amixer set Master 50%
 echo " "
 echo " Turn off the water heater!"
 echo " "
