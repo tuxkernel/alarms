@@ -5,7 +5,9 @@ Simple bash scripts alarms for daily use.
 
 ![Sample Run](https://github.com/tuxkernel/alarms/blob/master/screenshots/07.png)
 
-Do you want a cup of coffee? Go to the kitchen and prepare coffee in the coffee-maker. Then back to your laptop or workstation, run the script named "coffee" and eight minutes later you'll get a beep sound and message like "Coffee is ready! on your desktop. Down to the kitchen, pour your cup of coffee and keep working. Sometimes you are so focused on the computer that you forget that you were preparing coffee. As you can see, the script reminds you that the coffee is ready.
+Do you want a cup of coffee? Go to the kitchen and prepare coffee in the coffee-maker. Then back to your laptop or workstation, run the script named "coffee" and eight minutes later you'll get a beep sound and message like "Coffee is ready! on your desktop. Down to the kitchen, pour your cup of coffee and keep working. 
+
+Sometimes you are so focused on the computer that you forget that you were preparing coffee. As you can see, the script reminds you that the coffee is ready.
 
 **Tasks:**
 
