@@ -1,8 +1,11 @@
 #!/bin/bash
 
 sleep 3m
+amixer set Master 100%
+sleep 1s
 mplayer /home/blackout/.sounds/alarm.mp3
 sleep 1s
+amixer set Master 50%
 echo " "
 echo " Popcorn are ready!"
 echo " "
